@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(255,240,245);
+    font-family: monospace;
+}
+
+.tag,
+.attribute {
+    background-color: aliceblue;    
+}
+
+section,
+h1,
+h2 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1,
+h2 {
+    margin-top: 25px;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+/**======================== Table ==============================*/
+table{
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(216, 191, 216);
+}
+
+td {
+    text-align: justify;
+}
+
+tr {
+    height: 30px;
+}
